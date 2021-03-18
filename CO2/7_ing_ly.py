@@ -5,4 +5,4 @@ if length > 0:
       str1 += 'ly'
     else:
       str1 += 'ing'
-    print(str1)
+print(str1)
